@@ -53,14 +53,8 @@ Note:
 
 Hit **Run** when you are ready to compile and run the code.
 
-Replit runs a virtual Linux instance and compiles any `.java` file in the left hand column into a `.class` file and runs the `Main.class`
-
-In the console type `ls` and hit return and you will see the `Main.class` file listed.
-
 Now:
-- run the **Hello World!** test to see if your code passes
 - add another line to your code that uses the `System.out.println()` statement to output "It's me!"
-- run the **It's me!** test to see if your code passes
 - you will note that your output has to match **exactly** to pass the tests
 
 Next:
